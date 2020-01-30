@@ -14,17 +14,9 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Creating App</h1>
+      <h1>Zac Harris</h1>
       <h2>
-        Deployed with{' '}
-        <a
-          href="https://zeit.co/docs"
-          target="_blank"
-          rel="noreferrer noopener"
-        >
-          ZEIT Now
-        </a>
-        !
+        My Handsome Husband Farts smell like eggs
       </h2>
       <p>
         <a
