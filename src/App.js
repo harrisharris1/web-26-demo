@@ -21,8 +21,6 @@ function App() {
 
       <button>Click here to smell</button>
      
-      <h2>The date according to Go is:</h2>
-      <p>{date ? date : 'Loading date...'}</p>
     </main>
   );
 }
